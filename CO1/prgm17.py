@@ -1,0 +1,11 @@
+d={"carl":1,"alan":40,"bob":5,"hexa":45}
+lis=list(d.items())
+lis.sort()
+print("Dictionary arranged in ascending order:")
+s=dict(lis)
+print(s)
+l=list(d.items())
+l.sort(reverse=True)
+print("Dictionary arranged in descending order:")
+h=dict(l)
+print(h)
