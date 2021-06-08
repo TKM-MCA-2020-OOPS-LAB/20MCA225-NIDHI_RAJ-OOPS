@@ -1,0 +1,17 @@
+Enter the sides of rectangle:
+2
+4
+AREA OF RECTANGLE IS:8
+PERIMETER OF RECTANGLE IS:12
+Enter the radius of circle:
+3
+AREA OF CIRCLE IS:28.259999999999998
+PERIMETER OF CIRCLE IS:18.84
+Enter the side of sqaure:
+4
+AREA OF RECTANGLE IS:16
+PERIMETER OF RECTANGLE IS:16
+Enter the b & h of triangle:
+3
+4
+AREA OF RECTANGLE IS:6.0

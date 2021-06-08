@@ -1,0 +1,7 @@
+Enter 2 numbers:
+2
+4
+Addition:6
+Subtraction:-2
+Multiplication:8
+Division:0
