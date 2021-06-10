@@ -1,0 +1,19 @@
+Enter n:
+5
+Enter the numbers:
+1
+2
+3
+4
+5
+Average is:15
+
+Enter n:
+5
+Enter the numbers:
+1
+2
+-3
+4
+5
+NEGETIVE EXCEPTION OCCURED:NegException: One of the numbers id negetive,can't find average
