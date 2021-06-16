@@ -1,0 +1,16 @@
+Enter limit for printing even no's:
+Enter limit for printing fibanocci series:
+5
+
+Fibanocci series is as follows:
+0
+1
+1
+2
+3
+
+6
+Even no's are:
+0
+2
+4
