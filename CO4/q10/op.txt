@@ -1,0 +1,30 @@
+The items in arraylist are:Apple
+The items in arraylist are:Mango
+The items in arraylist are:Jackfruit
+The items in arraylist are:Pomogrante
+The items in arraylist are:Guava
+
+The item at index 4 is:Guava
+The item at index 4 after altering:Lichi
+The items in arraylist are:Apple
+The items in arraylist are:Mango
+The items in arraylist are:Jackfruit
+The items in arraylist are:Pomogrante
+The items in arraylist are:Lichi
+
+List after sorting:
+The items in arraylist are:Apple
+The items in arraylist are:Jackfruit
+The items in arraylist are:Lichi
+The items in arraylist are:Mango
+The items in arraylist are:Pomogrante
+
+After removing element at 1:
+The items in arraylist are:Apple
+The items in arraylist are:Lichi
+The items in arraylist are:Mango
+The items in arraylist are:Pomogrante
+
+Size of arraylist is:4
+
+Clearing all elements
