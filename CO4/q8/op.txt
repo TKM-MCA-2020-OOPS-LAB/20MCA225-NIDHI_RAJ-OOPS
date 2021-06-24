@@ -1,0 +1,58 @@
+Enter the size of the array :
+4
+
+         MENU :
+
+ 1.PUSH
+ 2.POP
+ 3.DISPLAY
+ 4.EXIT
+
+
+ Enter your choice :
+1
+enter the element :
+1
+
+         MENU :
+
+ 1.PUSH
+ 2.POP
+ 3.DISPLAY
+ 4.EXIT
+
+
+ Enter your choice :
+1
+enter the element :
+2
+
+         MENU :
+
+ 1.PUSH
+ 2.POP
+ 3.DISPLAY
+ 4.EXIT
+
+
+ Enter your choice :
+1
+enter the element :
+3
+
+         MENU :
+
+ 1.PUSH
+ 2.POP
+ 3.DISPLAY
+ 4.EXIT
+
+
+ Enter your choice :
+3
+
+ stack is
+
+3
+2
+1
