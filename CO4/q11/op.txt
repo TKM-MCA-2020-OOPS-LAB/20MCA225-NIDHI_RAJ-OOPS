@@ -1,0 +1,10 @@
+Enter 4 student names:
+Nidhi
+Naveen
+Sreelekshmi
+Agna
+The names are:
+Nidhi
+Naveen
+Sreelekshmi
+Agna
