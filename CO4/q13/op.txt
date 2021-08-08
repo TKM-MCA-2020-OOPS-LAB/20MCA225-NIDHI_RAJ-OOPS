@@ -1,0 +1,22 @@
+Enter Number Of elements
+5
+Enter the elements
+Naveen
+Sreelekshmi
+Rasik
+Abhilash
+Agna
+head:Abhilash
+head:Abhilash
+Iterating the queue elements
+
+Abhilash
+Agna
+Rasik
+Sreelekshmi
+Naveen
+After changing elements the queue becomes:
+
+Naveen
+Sreelekshmi
+Rasik
