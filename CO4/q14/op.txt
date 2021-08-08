@@ -1,0 +1,3 @@
+[six, four, two, one, three, five]
+
+Deque after removing first and last: [four, two, one, three]
