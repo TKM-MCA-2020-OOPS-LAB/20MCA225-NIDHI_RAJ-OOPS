@@ -1,0 +1,3 @@
+Stack: [Apple, Banana, Orange, Grapes, Guava]
+Removed element: Apple
+Final Stack: [Banana, Orange, Grapes, Guava]
